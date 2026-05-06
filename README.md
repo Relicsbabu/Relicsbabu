@@ -6,7 +6,7 @@ I'm a passionate developer and tech enthusiast with a keen interest in building 
 - 🌱 I'm currently learning cloud technologies
 - 👯 I'm looking to collaborate on open-source initiatives
 - 💬 Ask me about JavaScript, Python, or web development
-- 📫 How to reach me: relicsbabu@email.com
+- 📫 How to reach me: relicsbabu@gmail.com
 - ⚡ Fun fact: I love contributing to the developer community
 
 ---
@@ -56,7 +56,7 @@ I'm a passionate developer and tech enthusiast with a keen interest in building 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/relicsbabu)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/relicsbabu)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:relicsbabu@email.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:relicsbabu@gmail.com)
 
 ---
 
